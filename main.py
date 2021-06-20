@@ -3,8 +3,8 @@ from twilio.rest import Client
 
 OWM_ENDPOINT = "owm_endpoint"  # Enter the OpenWeatherMap API endpoint
 API_KEY = "api_key"  # Enter your your OpenWeatherMap API key
-ACCOUNT_SID = "account_sid"  # Enter your your OpenWeatherMap account SID
-AUTH_TOKEN = "auth_token"  # Enter your your OpenWeatherMap authorization token
+ACCOUNT_SID = "account_sid"  # Enter your your Twilio account SID
+AUTH_TOKEN = "auth_token"  # Enter your your Twilio account auth token
 
 MY_LAT = 0  # Enter your latitude
 MY_LON = 0  # Enter your longitude
